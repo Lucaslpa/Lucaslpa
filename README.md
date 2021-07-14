@@ -26,6 +26,6 @@
 </p>
 <hr>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpa12345&hide=html&layout=defalut&theme=default)](https://github.com/lucaslpa12345/">
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=lucaslpa12345&theme=default)](https://github.com/lucaslpa12345/">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpa12345&hide=html&layout=defalut&theme=default)](https://github.com/lucaslpa12345/">
+<img  src="https://github-readme-stats.vercel.app/api?username=lucaslpa12345&theme=default)](https://github.com/lucaslpa12345/">
 
