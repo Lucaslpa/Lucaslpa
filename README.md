@@ -1,5 +1,6 @@
 <img  align='left' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  lucaslpa12345@gmail.com
 <p>
+  
 ### Desenvolvimento web front end com as seguintes tecnologias:
 
 <img align='left' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
