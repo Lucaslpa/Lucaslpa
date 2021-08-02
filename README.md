@@ -8,7 +8,7 @@
 <img align='left' src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
-### Estudanto mais a fundo: 
+### Estudando mais a fundo: 
 Clean Code, Clean Architecture, Solid, Design Petterns e TDD.   
 
 <p>
